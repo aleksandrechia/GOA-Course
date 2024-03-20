@@ -1,7 +1,8 @@
-from turtle import *
+dad_name = "Giorgi"
+mom_name = "Nazi"
+#მე dad_name-ს მივუნიჭე მნიშვნელობა Giorgi შემდეგ mom_name-ს მივანიჭე მნიშვნელობა Nazi 
 
-dad_mom = "nazi_giorgi"
+print("My dad name is",dad_name,"my mom name is",mom_name)
 
-print(dad_mom)
 
-#მე dad_mom-ს მივუნიჭე მნიშვნელობა nazi_giorgi და მერე დავპრინტე dad_mom და ტერმინალში გამომიტანა nazi_giorgi
+#მე საბოლოოდ დავპრინტე dad_name და mom_name
