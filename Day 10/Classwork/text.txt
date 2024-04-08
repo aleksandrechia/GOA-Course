@@ -1,0 +1,4 @@
+image - ფოტო - img
+ატრიბუტი
+src - source - წყარო / 
+web servers
