@@ -1,0 +1,5 @@
+tiket = input("do you buy a goa film tiket:")
+goa_film = input("how meny tiket do you vant:")
+rate = input("do oyu like goa film:")
+favorite = input("what you like man in goa film:")
+location = input("do you know where the cinema:")
